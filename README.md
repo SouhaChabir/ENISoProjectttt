@@ -1,0 +1,2 @@
+# ENISoProjectttt
+Embedded Linux 
